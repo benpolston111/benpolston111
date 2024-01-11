@@ -1,5 +1,5 @@
 ### 👽
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06F72B&random=false&width=435&lines=Just+here+for+the+dog+pics" alt="Typing SVG" /></a>
 <!--
 **benpolston111/benpolston111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
